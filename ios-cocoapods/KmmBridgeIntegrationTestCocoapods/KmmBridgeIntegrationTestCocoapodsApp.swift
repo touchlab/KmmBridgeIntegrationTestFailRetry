@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import shared
+import notshared
 
 @main
 struct KmmBridgeIntegrationTestCocoapodsApp: App {

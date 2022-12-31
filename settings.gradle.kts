@@ -7,5 +7,5 @@ pluginManagement {
     }
 }
 rootProject.name = "KmmBridgeIntegrationTest"
-include(":shared")
+include(":notshared")
 
