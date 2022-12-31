@@ -1,0 +1,16 @@
+PODS:
+  - notshared (1.5.5)
+
+DEPENDENCIES:
+  - notshared (~> 1.5.3)
+
+SPEC REPOS:
+  https://github.com/touchlab/PodSpecs.git:
+    - notshared
+
+SPEC CHECKSUMS:
+  notshared: 7717c6cf894f8c3c4a76120b7dde86359fa9e6fd
+
+PODFILE CHECKSUM: 6e0bcc03660c02304fc1e20c2033f3f16c4885ab
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module notshared {
+    umbrella header "notshared.h"
+
+    export *
+    module * { export * }
+}
